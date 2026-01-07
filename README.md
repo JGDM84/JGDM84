@@ -1,4 +1,5 @@
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+![Aditya Vikram Singh Banner](https://github.com/user-attachments/assets/e16d0f2f-e7f1-4997-a279-5752ea729c00)
+
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hola, soy Johiel84</h2>
 
