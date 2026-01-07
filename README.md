@@ -11,6 +11,6 @@
 🎓 &nbsp;Actualmente soy estudiante de la Universidad de Colima.\
 🌱 &nbsp;Soy bastante entusiasta sobtre el mundo de la tecnología y su constante evolución.\
 ✍️ &nbsp;En mis tiempos libres, suelo practicar y tomar cursos sobre la programación para aprender cadad día más y pasar el tiempo.\
-💬 &nbsp;No me considero un experto en la programación ni en la tecnología, pero me emociona hablar de ello y siempre doy mi mejor esfuerzo para saber más de lo uqe ya se.\
+💬 &nbsp;No me considero un experto en la programación ni en la tecnología, pero me emociona hablar de ello y siempre doy mi mejor esfuerzo para saber más de lo que ya se.\
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
